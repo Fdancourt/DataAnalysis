@@ -2,9 +2,3 @@ numpy
 pandas
 sklearn
 pynance
-python-binance-chain
-seaborn
-plotly
-matplotlib
-Historic_Crypto
-blockcypher
