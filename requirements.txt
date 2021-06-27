@@ -6,4 +6,4 @@ seaborn
 plotly
 matplotlib
 Historic_Crypto
-sanpy
+google-cloud-bigquery
