@@ -6,5 +6,4 @@ seaborn
 plotly
 matplotlib
 Historic_Crypto
-google-cloud-bigquery
-google_auth_oauthlib
+nomics-python
