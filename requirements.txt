@@ -2,7 +2,6 @@ numpy
 pandas
 sklearn
 pynance
-catalyst
 python-binance-chain
 seaborn
 plotly
