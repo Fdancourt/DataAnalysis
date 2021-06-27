@@ -1,1 +1,11 @@
-numpy==1.14.5
+numpy
+pandas
+sklearn
+pynance
+catalyst
+python-binance-chain
+seaborn
+plotly
+matplotlib
+Historic_Crypto
+blockcypher
